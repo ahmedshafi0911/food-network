@@ -7,7 +7,7 @@ h1{
     line-height: 0.5;
 }
 p{
-    font-weight: 700;
+    font-weight: 600;
 }
 h2{
     font-size: 40px;
@@ -63,4 +63,8 @@ h2{
 }
 .footer{
     background-image:linear-gradient(black, black);
+    padding-bottom: 40px;
+}
+.different-color{
+    color: white;
 }
